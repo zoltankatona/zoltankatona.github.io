@@ -1,0 +1,6 @@
+{
+"foods": [
+    {"id": 1, "name": "paprikás krumpli", "type": "egészséges"},
+    {"id": 2, "name": "krumplis tészta", "type": "egészséges"}
+]
+}
